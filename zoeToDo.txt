@@ -1,0 +1,9 @@
+fix pyenchant.  was a complete pain in the ass to install and get working.  ***WAS THROWING VIRUS FLAGS ON MY MACHINE***  malwr.com and virustotal were clean tho.
+integrate into main bits.  Word verification doesn't need it's own class since it's like 3 lines.
+look into auto installing pyenchant or packaging the required C/C++ files for it. *****SEE ABOVE.  WTF*****
+one more test suite. I had it in my mind then forgot.  HERP DERP
+write change to word trunc'er to capitlise everything.  Checks back true for "the", "The", and "THE".  False for "tHe" or "thE".  \\
+Obs enchant gives a shit about capitals somewhat.
+
+
+***DOCUMENTATION***
